@@ -149,13 +149,25 @@ Trend & Category Analysis
 Data Visualization
      ↓
 Interactive Dashboard
+---
+## 👨‍💻 Author
 
+<p align="center">
 
-👨‍💻 Author
+### **Raushan Abhishek**
 
-Raushan Abhishek
-Computer Science & Engineering | Data Science
+**Computer Science & Engineering | Data Science**
 
 🎯 Aspiring Data Analyst
 
-Python • SQL • Excel • Pandas • NumPy • Matplotlib • Seaborn
+`Python` • `SQL` • `Excel` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **If you found this project useful, consider giving it a star!**
+
+</p>
