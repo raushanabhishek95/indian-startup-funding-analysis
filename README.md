@@ -8,6 +8,12 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20Dashboard-red?logo=streamlit)](https://streamlit.io/)
 
 ---
+## 🚀 Live Demo
+
+🔗 **[View Live Dashboard](https://raushanabhishek95-indian-startup-funding-analysis-main-32hnkq.streamlit.app/)**
+
+> Explore the interactive Indian Startup Funding Analysis Dashboard to analyze funding trends, sectors, investors, cities, and startup-level insights.
+
 
 ## 📌 Project Overview
 
